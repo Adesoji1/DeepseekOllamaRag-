@@ -1,0 +1,2 @@
+# DeepseekOllamaRag-
+Run deepseek locally
